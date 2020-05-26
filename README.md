@@ -1,5 +1,5 @@
 # SwiftUI Buzz
-* SwiftUI Short Link of SwiftUI Buzz Projects in Github
+* Short Link of SwiftUI Buzz Projects in Github
 
 
 ## View Modifiers
