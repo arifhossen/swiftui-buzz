@@ -1,4 +1,5 @@
-# SwiftUI Buzz
+# SwiftUI Buzz  ![Icon](http://arifhossen.net/github_images/buzz_icon.png)
+
 * Short Link of SwiftUI Buzz Projects in Github
 
 
